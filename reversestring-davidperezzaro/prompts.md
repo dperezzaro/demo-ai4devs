@@ -1,5 +1,5 @@
-# 
-[ChatGPT] with default values as of July the 7th 2025
+# Chatbot
+[ChatGPT](https://chatgpt.com/) with default values as of July the 7th 2025
 
 # Prompt
 
